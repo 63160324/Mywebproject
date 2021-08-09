@@ -1,12 +1,12 @@
 # Javascript Alert App
 โปรเจคเว็บแอพฯ จัดทําโดย (ชื่อ)
 
-**Features**
+<b>Features</b>
 - List 1
 - List 2
 - List 3
 
-**Example code** 
+<b>Example code</b> 
 
 ```
 <javascript>
@@ -14,11 +14,11 @@
 
 </javascript>
 ```
-**Credit**
+<b>Credit</b>
 
 [myemail@gmail.com](https://myemail@gmail.com)
 
-**License**
+<b>License</b>
 
 MIT License 
 
